@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left h2{
+    text-align: left;
+    color: white;
+}
+
+.left h4{
+    text-align: left;
+    color: white;
+}
+a{
+    padding: 50px 100px;
+    color: white;
+}
+.right{
+    margin-top: -3%;
+}
+.left,.right{
+    text-align: right;
+    background-color: saddlebrown;
+    padding: 10px;
+}
+.image img{
+    width: 1540px;
+    height:650px ;
+}
+.team h2{
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 15px;
+}
+.team p{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    text-align: justify;
+}
+.project h1{
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px;
+}
+.project h2{
+    text-align:justify;
+}
+.project ol{
+    padding-left: 45%;
+    font-weight: 700;
+}
+.project{
+    background-color: darkseagreen;
+    padding: 20px;
+}
+.last h2{
+    text-align: left;
+    color: white;
+}
+
+.last h4{
+    text-align: left;
+    color: white;
+}
+a{
+    padding: 50px 100px;
+    color: white;
+
+}
+.first{
+    margin-top: -3%;
+}
+.last,.first{
+    text-align: right;
+    background-color: saddlebrown;
+    padding: 10px;
+}
